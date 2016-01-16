@@ -23,3 +23,4 @@ Install 'Karma' plugin
 Right-click-run karma.conf.js
 Add 'karma-jasmin' library to JavaScript libs for code completion
 ```
+![Travis CI build status](https://travis-ci.org/tullo/karma-hello-world.svg?branch=master)
