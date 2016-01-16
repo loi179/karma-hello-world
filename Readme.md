@@ -15,6 +15,7 @@ $ karma start
 $ npm i karma-firefox-launcher --save-dev
 $ karma start --browsers Firefox --single-run
 ```
+![Travis CI build status](https://travis-ci.org/tullo/karma-hello-world.svg?branch=master)
 
 ## IDEA setup
 
@@ -23,4 +24,3 @@ Install 'Karma' plugin
 Right-click-run karma.conf.js
 Add 'karma-jasmin' library to JavaScript libs for code completion
 ```
-![Travis CI build status](https://travis-ci.org/tullo/karma-hello-world.svg?branch=master)
